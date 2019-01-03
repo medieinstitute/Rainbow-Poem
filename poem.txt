@@ -6,4 +6,5 @@ orange
 blue 
 Red
 yellow
+indigo
 These are the rainbow color
