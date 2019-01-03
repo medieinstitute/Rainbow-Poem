@@ -9,4 +9,5 @@ yellow
 indigo
 Recycle
 nony
+ner
 These are the rainbow color
